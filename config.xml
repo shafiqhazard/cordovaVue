@@ -7,7 +7,7 @@
     <author email="al@pwn.io" href="https://f1lt3r.io">
         F1LT3R
     </author>
-    <content src="dist/index.html" />
+    <content src="www/index.html" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
